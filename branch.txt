@@ -1,0 +1,11 @@
+Branch ->
+
+bata 1 -> shoes
+bata 2 -> tshirt
+bata 3 -> shocks
+bata 4 -> bags
+
+repository -> bhada -> container
+
+Branch? What is the purpose of the branches in the git?
+
