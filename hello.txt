@@ -1,8 +1,9 @@
-My name is Debrath Sharma. - Debrath
+My name is Debrath Sharma. c programming - Debrath My name is Amisha Risal . Amisha
 
-Ayash Shrestha. - abc
 
-Manish Shrestha - pari
+Ayash Shrestha. python - abc
+
+Manish Shrestha javaScript - pari
 
 
 
@@ -29,4 +30,26 @@ Hello everyone.
 new changes
 
 ctrl + shift + c
+
+
+Ctrl +  ~
+
+
+Teams - 6 member
+
+single chart paper -> mess
+
+branch - class decoration
+
+Amisha - chart
+Debrath - chart
+Hridek -chart
+Ukesh - chart
+Agrima - chart
+Manish - chart
+
+branch
+
+Debrath - 1 to 10
+amisha -10 to 20
 
