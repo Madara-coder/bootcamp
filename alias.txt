@@ -1,0 +1,7 @@
+alias
+
+allies -> Nepal ally China
+
+st -> status
+
+debrath -> status
