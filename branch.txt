@@ -8,4 +8,4 @@ bata 4 -> bags
 repository -> bhada -> container
 
 Branch? What is the purpose of the branches in the git?
-
+git
