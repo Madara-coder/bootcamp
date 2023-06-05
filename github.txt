@@ -1,1 +1,5 @@
 repository-> github bhada -> container
+
+git push -> pushes all the codes which are added and commited to the github repository\
+
+Random changes
